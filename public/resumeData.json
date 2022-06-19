@@ -4,18 +4,18 @@
     "occupation": "Software engineer",
     "description": "I like to make software",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me and let's make something great",
+    "bio": "Hi there, I'm Mohamad, I am a software engineer who likes to make software, I'm also social and communicate professionally and I like sports.",
+    "contactmessage": "Hit me up of you have an amazing idea and want to collaborate",
     "email": "email yet to come",
     "phone": "phone number yet to come",
     "address": {
-      "street": "123 Dev Lane",
+      "street": "Yet to come",
       "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "state": "Yet to come",
+      "zip": "Yet to come"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
     
       {
@@ -37,7 +37,7 @@
         "school": "Amsterdam university of applied science",
         "degree": "Bachelor's Degree, Software engineering",
         "graduated": "April 2022",
-        "description": "Graduated with an 8 for my last internship"
+        "description": "Graduated with an 8 for my last thisis"
       }
     ],
     "work": [
@@ -46,6 +46,18 @@
         "title": "Junior Java fullstack dev",
         "years": "June 2022 - Present",
         "description": "Working in the train security sector, creating software for Prorail"
+      },
+      {
+        "company": "Amsterdam university of applied science",
+        "title": "staff member",
+        "years": "aug 2018 - aug 2020",
+        "description": "I was a member of the platform Students that matter, which helped students with a refugee background during theirs studies. I helped organising fun activities, organising and giving workshops and making other students aware of our group."
+      },
+      {
+        "company": "Macaw",
+        "title": "Software engineer intern",
+        "years": "oct 2021 - apr 2022",
+        "description": "Worked on an integration using Azure integration services"
       }
     ],
     "skills": [
@@ -74,22 +86,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Netflix clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "netflix.png",
+        "url": "https://github.com/CrazyFrog-tech/netflix-build-clone"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Tesla Clone",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "Tesla.jpg",
+        "url": "https://github.com/CrazyFrog-tech/tesla-clone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Cat adoption app (andriod)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "cat-adoption.jpg",
+        "url": "https://github.com/CrazyFrog-tech/CatAdoption/branches"
       }
     ]
   },
