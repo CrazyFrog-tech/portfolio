@@ -2,17 +2,14 @@
   "main": {
     "name": "Mohamad Allan",
     "occupation": "Software engineer",
-    "description": "I like to make software",
+    "description": "digitalizing the world one feature at a time",
     "image": "profilepic.jpg",
     "bio": "Hi there, I'm Mohamad, I am a software engineer who likes to make software, I'm also social and communicate professionally and I like sports.",
-    "contactmessage": "Hit me up of you have an amazing idea and want to collaborate",
+    "contactmessage": "Hit me up and let's build something great",
     "email": "email yet to come",
-    "phone": "phone number yet to come",
     "address": {
-      "street": "Yet to come",
-      "city": "London",
-      "state": "Yet to come",
-      "zip": "Yet to come"
+      "city": "Haarlem"
+     
     },
     "website": "",
     "resumedownload": "",
@@ -107,14 +104,6 @@
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
     ]
   }
 }

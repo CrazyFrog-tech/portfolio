@@ -59,6 +59,15 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 
 ## TODO
-### 1- deploy Tesla clone to firebase
+### 1- fix email services
 
-### 2- 
+### 2- fix image and name of website in browser tab
+
+### 3- remove testemonials
+
+### 4- remove Made by papa
+
+### 5- check for a domein where you can buy and get an email like MohamadAllan@Software.com
+
+
+
