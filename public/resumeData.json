@@ -43,6 +43,12 @@
         "title": "Junior Java fullstack dev",
         "years": "June 2022 - Present",
         "description": "Working in the train security sector, creating software for Prorail"
+      },      
+      {
+        "company": "Macaw",
+        "title": "Software engineer intern",
+        "years": "oct 2021 - apr 2022",
+        "description": "Worked on an integration using Azure integration services"
       },
       {
         "company": "Amsterdam university of applied science",
@@ -50,11 +56,18 @@
         "years": "aug 2018 - aug 2020",
         "description": "I was a member of the platform Students that matter, which helped students with a refugee background during theirs studies. I helped organising fun activities, organising and giving workshops and making other students aware of our group."
       },
+
       {
-        "company": "Macaw",
+        "company": "Gemba service bv",
         "title": "Software engineer intern",
-        "years": "oct 2021 - apr 2022",
-        "description": "Worked on an integration using Azure integration services"
+        "years": "feb 2020 - aug 2020",
+        "description": "I worked mainly on mobile applications during my internship using Flutter"
+      },
+      {
+        "company": "App4mation",
+        "title": "Software engineer intern",
+        "years": "sep 2019 - jan 2020",
+        "description": "We worked on a project assigned from at the company in a group of 5 students on an asset management application."
       }
     ],
     "skills": [
